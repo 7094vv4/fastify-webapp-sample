@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Tue May 27 00:55:13 GMT 2025","Tue May 27 00:55:15 GMT 2025","1752","","注文プロセスのテスト","","","","ログインし、お弁当を注文し、お弁当を受け取る",""
